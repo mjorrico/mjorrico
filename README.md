@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mjorrico
-- 📫 How to reach me on [Mastodon](https://qoto.org/@enrico)
+- 📫 How to reach me on [Mastodon](https://sigmoid.social/@jordan)
 
 <!---
 - 👀 I’m interested in ...
