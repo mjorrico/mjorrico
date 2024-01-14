@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mjorrico
-- 📫 Reach me on <a rel="me" href="https://sigmoid.social/@jordan">Mastodon</a>
 
 <!---
 - 👀 I’m interested in ...
